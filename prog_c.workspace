@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_workspace_file>
 	<Workspace title="Workspace">
-		<Project filename="ex_1/ex_1/ex_1.cbp" />
-		<Project filename="ex_2/ex_2/ex_2.cbp" />
-		<Project filename="ex_3/ex_3/ex_3.cbp" />
-		<Project filename="ex_4/ex_4/ex_4.cbp" />
-		<Project filename="ex_5/ex_5/ex_5.cbp" />
-		<Project filename="ex_6/ex_6/ex_6.cbp" />
+		<Project filename="ex_1/ex_1.cbp" />
+		<Project filename="ex_2/ex_2.cbp" />
+		<Project filename="ex_3/ex_3.cbp" />
+		<Project filename="ex_4/ex_4.cbp" />
+		<Project filename="ex_5/ex_5.cbp" />
+		<Project filename="ex_6/ex_6.cbp" />
+		<Project filename="ex_07/ex_07.cbp" />
+		<Project filename="ex_08/ex_08.cbp" />
+		<Project filename="ex_08b/ex_08b.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
