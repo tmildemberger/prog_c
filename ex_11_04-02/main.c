@@ -1,7 +1,7 @@
 #include <stdio.h>
 //ler 20 numeros e imprimir em ordem crescente
 
-#define NUMS 200
+#define NUMS 20000
 #define LER_DO_ARQUIVO 1
 
 int main()
@@ -26,8 +26,9 @@ int main()
         }
         max_atual--;
     }
-    for(i = 0; i < NUMS; i++){
-        printf("%d\n", numeros[i]);
-    }
+//    for(i = 0; i < NUMS; i++){
+//        printf("%d\n", numeros[i]);
+//    }
+    printf("Finished! (trust me)\n");
     return 0;
 }
