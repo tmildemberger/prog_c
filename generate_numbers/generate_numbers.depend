@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1523489787 source:d:\programming\aula\prog_c\generate_numbers\main.c
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-
