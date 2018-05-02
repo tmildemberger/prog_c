@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define NUMS 20000
+#define NUMS 50000
 
 #define TOP_LIMIT 1000
 
