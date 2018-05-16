@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int le_limitado(int limite_inferior, int limite_superior){
     int num;
