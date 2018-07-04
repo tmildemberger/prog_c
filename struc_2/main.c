@@ -8,7 +8,7 @@
 //ver quais mais aparecem
 
 //com funcoes
-#define QUANTOS 3
+#define QUANTOS 10
 
 typedef char palavra_t[20];
 

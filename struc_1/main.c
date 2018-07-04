@@ -18,7 +18,10 @@ complexo_t soma(complexo_t num1, complexo_t num2){
 int main()
 {
     complexo_t entrada1, entrada2, resul;
-    scanf("%d %d %d %d", &entrada1.real, &entrada1.imaginario, &entrada2.real, &entrada2.imaginario);
+    printf("escreva um numero complexo na forma retangular\n");
+    scanf("%d %d", &entrada1.real, &entrada1.imaginario);
+    printf("escreva outro numero complexo na forma retangular\n");
+    scanf("%d %d", &entrada2.real, &entrada2.imaginario);
     resul = soma(entrada1, entrada2);
     printf("(%d + %di) + (%d + %di) = %d + %di", entrada1.real, entrada1.imaginario,
                                                  entrada2.real, entrada2.imaginario, resul.real, resul.imaginario);

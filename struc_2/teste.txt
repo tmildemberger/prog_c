@@ -3,3 +3,28 @@ ola
  
  
             ola ola bom diiia bom bom bom bom
+
+
+  	
+	 Chess is played on a chessboard, a square board divided into 64 squares (eight-by-eight) of alternating color, which is similar to that used in draughts (checkers) (FIDE 2008). No matter what the actual colors of the board, the lighter-colored squares are called "light" or "white", and the darker-colored squares are called "dark" or "black". Sixteen "white" and sixteen "black" pieces are placed on the board at the beginning of the game. The board is placed so that a white square is in each player's near-right corner. Horizontal rows are called ranks and vertical rows are called files.
+
+Each player controls sixteen pieces:
+
+Piece	King	Queen	Rook	Bishop	Knight	Pawn
+Number	1	1	2	2	2	8
+Symbols	Chess klt45.svg
+Chess kdt45.svg	Chess qlt45.svg
+Chess qdt45.svg	Chess rlt45.svg
+Chess rdt45.svg	Chess blt45.svg
+Chess bdt45.svg	Chess nlt45.svg
+Chess ndt45.svg	Chess plt45.svg
+Chess pdt45.svg
+At the beginning of the game, the pieces are arranged as shown in the diagram: for each side one king, one queen, two rooks, two bishops, two knights, and eight pawns. The pieces are placed, one on a square, as follows:
+
+The rooks are placed on the outside corners, right and left edge.
+The knights are placed immediately inside of the rooks.
+The bishops are placed immediately inside of the knights.
+The queen is placed on the central square of the same color of that of the player: white queen on the white square and black queen on the black square.
+The king takes the vacant spot next to the queen.
+The pawns are placed one square in front of all of the other pieces.
+Popular mnemonics used to remember the setup are "queen on her own color" and "white on right". The latter refers to setting up the board so that the square closest to each player's right is white (Schiller 2003:16–17).
